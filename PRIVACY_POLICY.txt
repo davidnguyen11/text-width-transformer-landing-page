@@ -1,0 +1,22 @@
+Privacy Policy for TextWidth Converter
+======================================================================================================
+
+Introduction
+============
+
+Our TextWidth Converter (“we”, “us”, “our”) respects the privacy of its users (“you”, “your”). This Privacy Policy explains how we handle any personal data we do not collect when you use our Chrome extension, TextWidth Converter.
+
+Information We Do Not Collect
+=============================
+
+TextWidth Converter does not collect, store, or share any personal information, browsing history, or any data from the websites you visit.
+
+Data Use
+========
+
+Since no data is collected, there is no use of data to describe.
+
+Third-party Services
+====================
+
+Our extension does not use or share your data with any third-party services.
